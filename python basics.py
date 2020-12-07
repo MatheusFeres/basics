@@ -119,5 +119,3 @@ from numpy import array
 #np.sort
 
 #np.random.normal(180,15,1000)
-
-#corr = np.corrcoef(np_baseball[:,0],np_baseball[:,1])
